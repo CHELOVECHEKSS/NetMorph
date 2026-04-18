@@ -44,7 +44,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/yourusername/netmorph.git
+git clone https://github.com/chelovechekss/netmorph.git
 cd netmorph
 ```
 
